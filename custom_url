@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTINF:-1 ,Cine Estelar HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Estelar SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Acción 1 HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Acción 1 SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Acción 2 HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Acción 2 SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Premiere HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Premiere SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Estrellas de Acción HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Estrellas de Acción SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Comedia HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Comedia SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Romance HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Romance SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Drama HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Drama SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Suspenso HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Suspenso SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Crimen HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Crimen SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Terror 1 HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Terror 1 SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine Terror 2 HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine Terror 2 SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,The Walking Dead HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,The Walking Dead SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Cine en Familia HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Cine en Familia SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Series Retro HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Series Retro SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Kenan y Kel HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Kenan y Kel SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Humor HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Humor SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Los Tres Chiflados HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Los Tres Chiflados SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Hechizada HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Hechizada SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,South Park HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,South Park SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Bob Esponja HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Bob Esponja SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Retro Cartoons HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Retro Cartoons SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Historias HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Historias SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Investiga HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Investiga SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,The New Detectives HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,The New Detectives SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Archivos del FBI HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Archivos del FBI SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Misterios sin Resolver HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Misterios sin Resolver SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Historias P 1 HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Historias P 1 HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Historias P 2 HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Historias P 2 SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Love Nature Cast HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Love Nature Cast SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60dd6b1da79e4d0007309455livestitch/464544/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Naturaleza HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Naturaleza SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,Animales HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,Animales SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,MTV Party Music HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,MTV Party Music SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,MTV Urban Music HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/62444f34ea3ade0007ade6ac/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,MTV Urban Music SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/62444f34ea3ade0007ade6ac/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,MTV Music Spain HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,MTV Music Spain SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 ,VH1 Classics HD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ,VH1 Classics SD
+http://stitcher-ipv4.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/572723/playlist.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=@&deviceDNT=0&deviceModel=0
